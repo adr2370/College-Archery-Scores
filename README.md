@@ -1,7 +1,7 @@
 College-Archery-Scores
 ======================
 
-The college archery scores app on android and ios using phonegap.
+The college archery scores app on android and ios using phonegap. Check out the [ios app here][]. Check out the [android app here][].
 
 Below are screenshots from the iphone app.
 
@@ -10,11 +10,14 @@ Below are screenshots from the iphone app.
 
 Below are screenshots from the android app.
 
-[![](http://lh4.ggpht.com/3QOKvl3fGLiCaR2lp17Zz-726e_15doIorlB9nJjWQ4jGAWf_9dn43EKdJrZSt2KFH8)]( https://play.google.com/store/apps/details?id=com.phonegap.archeryscores&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5waG9uZWdhcC5hcmNoZXJ5c2NvcmVzIl0.)
-[![](http://lh4.ggpht.com/Z6OIcKR0FQksQh6ZGFG_o97MnPVLtdRc80zR7_fiSA7OpymVXbVPiqcCvehqf2DUiQ)]( https://play.google.com/store/apps/details?id=com.phonegap.archeryscores&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5waG9uZWdhcC5hcmNoZXJ5c2NvcmVzIl0.)
+[![](http://lh4.ggpht.com/3QOKvl3fGLiCaR2lp17Zz-726e_15doIorlB9nJjWQ4jGAWf_9dn43EKdJrZSt2KFH8)](https://play.google.com/store/apps/details?id=com.phonegap.archeryscores&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5waG9uZWdhcC5hcmNoZXJ5c2NvcmVzIl0.)
+[![](http://lh4.ggpht.com/Z6OIcKR0FQksQh6ZGFG_o97MnPVLtdRc80zR7_fiSA7OpymVXbVPiqcCvehqf2DUiQ)](https://play.google.com/store/apps/details?id=com.phonegap.archeryscores&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5waG9uZWdhcC5hcmNoZXJ5c2NvcmVzIl0.)
 
 Below are screenshots from the ipad app.
 
 [![](http://a1.mzstatic.com/us/r1000/100/Purple/v4/c9/50/b0/c950b05b-85b4-0474-9902-827e2be23fca/mza_1230844838936761750.480x480-75.jpg)](http://itunes.apple.com/us/app/college-archery-scores/id524013147?mt=8)
 [![](http://a1.mzstatic.com/us/r1000/072/Purple/v4/ab/a7/7f/aba77fbd-7777-5f55-3e4e-de54f62a5c82/mza_4026325054327441684.480x480-75.jpg)](http://itunes.apple.com/us/app/college-archery-scores/id524013147?mt=8)
 
+[ios app here]: http://itunes.apple.com/us/app/college-archery-scores/id524013147?mt=8
+
+[android app here]: https://play.google.com/store/apps/details?id=com.phonegap.archeryscores&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5waG9uZWdhcC5hcmNoZXJ5c2NvcmVzIl0.
